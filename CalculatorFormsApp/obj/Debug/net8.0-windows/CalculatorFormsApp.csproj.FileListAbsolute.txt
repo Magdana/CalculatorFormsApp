@@ -1,0 +1,33 @@
+C:\Users\magda\Desktop\c#\CalculatorFormsApp\CalculatorFormsApp\bin\Debug\net8.0-windows\CalculatorFormsApp.exe
+C:\Users\magda\Desktop\c#\CalculatorFormsApp\CalculatorFormsApp\bin\Debug\net8.0-windows\CalculatorFormsApp.deps.json
+C:\Users\magda\Desktop\c#\CalculatorFormsApp\CalculatorFormsApp\bin\Debug\net8.0-windows\CalculatorFormsApp.runtimeconfig.json
+C:\Users\magda\Desktop\c#\CalculatorFormsApp\CalculatorFormsApp\bin\Debug\net8.0-windows\CalculatorFormsApp.dll
+C:\Users\magda\Desktop\c#\CalculatorFormsApp\CalculatorFormsApp\bin\Debug\net8.0-windows\CalculatorFormsApp.pdb
+C:\Users\magda\Desktop\c#\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.Calculator.resources
+C:\Users\magda\Desktop\c#\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.csproj.GenerateResource.cache
+C:\Users\magda\Desktop\c#\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magda\Desktop\c#\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.AssemblyInfoInputs.cache
+C:\Users\magda\Desktop\c#\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.AssemblyInfo.cs
+C:\Users\magda\Desktop\c#\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\magda\Desktop\c#\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.dll
+C:\Users\magda\Desktop\c#\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\refint\CalculatorFormsApp.dll
+C:\Users\magda\Desktop\c#\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.pdb
+C:\Users\magda\Desktop\c#\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.genruntimeconfig.cache
+C:\Users\magda\Desktop\c#\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\ref\CalculatorFormsApp.dll
+C:\Users\magda\Desktop\New folder\CalculatorFormsApp\CalculatorFormsApp\bin\Debug\net8.0-windows\CalculatorFormsApp.exe
+C:\Users\magda\Desktop\New folder\CalculatorFormsApp\CalculatorFormsApp\bin\Debug\net8.0-windows\CalculatorFormsApp.deps.json
+C:\Users\magda\Desktop\New folder\CalculatorFormsApp\CalculatorFormsApp\bin\Debug\net8.0-windows\CalculatorFormsApp.runtimeconfig.json
+C:\Users\magda\Desktop\New folder\CalculatorFormsApp\CalculatorFormsApp\bin\Debug\net8.0-windows\CalculatorFormsApp.dll
+C:\Users\magda\Desktop\New folder\CalculatorFormsApp\CalculatorFormsApp\bin\Debug\net8.0-windows\CalculatorFormsApp.pdb
+C:\Users\magda\Desktop\New folder\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.Calculator.resources
+C:\Users\magda\Desktop\New folder\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.csproj.GenerateResource.cache
+C:\Users\magda\Desktop\New folder\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magda\Desktop\New folder\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.AssemblyInfoInputs.cache
+C:\Users\magda\Desktop\New folder\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.AssemblyInfo.cs
+C:\Users\magda\Desktop\New folder\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\magda\Desktop\New folder\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.sourcelink.json
+C:\Users\magda\Desktop\New folder\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.dll
+C:\Users\magda\Desktop\New folder\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\refint\CalculatorFormsApp.dll
+C:\Users\magda\Desktop\New folder\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.pdb
+C:\Users\magda\Desktop\New folder\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\CalculatorFormsApp.genruntimeconfig.cache
+C:\Users\magda\Desktop\New folder\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net8.0-windows\ref\CalculatorFormsApp.dll
